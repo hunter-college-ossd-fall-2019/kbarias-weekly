@@ -28,3 +28,5 @@ Replace the first row below with your contribution.
 |  7   | [https://www.openstreetmap.org/changeset/75745827](https://www.openstreetmap.org/changeset/75745827)    |  OpenStreet Map edit   |Changed name of gym, and contact information  |
 |  7   | [https://github.com/Evie-Skinner18/happy_hacktoberfest_19/pull/183](https://github.com/Evie-Skinner18/happy_hacktoberfest_19/pull/183)    |  Hacktoberfest repo edit  |Changed the format of Contributors page  |
 |  8   | [https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/pull/11](https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/pull/11)    |  Peer blog post edit | Changes hyperlink in block post 6 |
+|  9   | [https://github.com/hunter-college-ossd-fall-2019/ValeroM-weekly/pull/19](https://github.com/hunter-college-ossd-fall-2019/ValeroM-weekly/pull/19)    |  Peer blog post edit | Changes hyperlink and assignment heading |
+|  10   | [https://github.com/freeCodeCamp/freeCodeCamp/pull/37683](https://github.com/freeCodeCamp/freeCodeCamp/pull/37683)    |  freeCodeCamp edit | Change to JavaScript code explanation |
