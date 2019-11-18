@@ -32,4 +32,6 @@ Replace the first row below with your contribution.
 |  10   | [PR #37683 for freeCodeCamp repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/37683)    |  freeCodeCamp edit | Change to JavaScript code explanation |
 |  11   | [Revision #925985900](https://en.wikipedia.org/w/index.php?title=It%27s_Kind_of_a_Funny_Story&diff=prev&oldid=925985900)    |  Wikipedia edit | Spelling and grammar corrections |
 |  11   | [Revision #925984351](https://en.wikipedia.org/w/index.php?title=Beaches_(film)&diff=prev&oldid=925984351)    |  Wikipedia edit | Spelling and grammar corrections |
-|  12   | []()    |  freeCodeCamp edit |  |
+|  12   | [PR #37757 for freeCodeCamp repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/37757)    |  freeCodeCamp edit | Change to switch statement example |
+|  12   | [Revision #926697659](https://en.wikipedia.org/w/index.php?title=Z%C3%B3calo&diff=prev&oldid=926697659)    |  Wikipedia edit | Spelling and grammar corrections |
+|  12   | [Revision #926698970](https://en.wikipedia.org/w/index.php?title=Ali_Krieger&diff=prev&oldid=926698970)    |  Wikipedia edit | Spelling and grammar corrections |
