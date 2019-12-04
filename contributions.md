@@ -35,3 +35,5 @@ Replace the first row below with your contribution.
 |  12   | [PR #37757 for freeCodeCamp repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/37757)    |  freeCodeCamp edit | Change to switch statement example |
 |  12   | [Revision #926697659](https://en.wikipedia.org/w/index.php?title=Z%C3%B3calo&diff=prev&oldid=926697659)    |  Wikipedia edit | Spelling and grammar corrections |
 |  12   | [Revision #926698970](https://en.wikipedia.org/w/index.php?title=Ali_Krieger&diff=prev&oldid=926698970)    |  Wikipedia edit | Spelling and grammar corrections |
+|  13   | [PR #37802 for freeCodeCamp repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/37802)    |  freeCodeCamp edit | Added description of JS prototype |
+|  13   | [PR #37854 for freeCodeCamp repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/37854)    |  freeCodeCamp edit | Capitilization corrections |
