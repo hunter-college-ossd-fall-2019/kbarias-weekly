@@ -37,3 +37,4 @@ Replace the first row below with your contribution.
 |  12   | [Revision #926698970](https://en.wikipedia.org/w/index.php?title=Ali_Krieger&diff=prev&oldid=926698970)    |  Wikipedia edit | Spelling and grammar corrections |
 |  13   | [PR #37802 for freeCodeCamp repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/37802)    |  freeCodeCamp edit | Added description of JS prototype |
 |  13   | [PR #37854 for freeCodeCamp repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/37854)    |  freeCodeCamp edit | Capitilization corrections |
+|  17   | [Revision #931625837](https://en.wikipedia.org/w/index.php?title=The_Tenderloins&diff=prev&oldid=931625837)    |  Wikipedia edit | Full names added in addition to nicknames |
